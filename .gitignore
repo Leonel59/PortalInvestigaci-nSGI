@@ -1,3 +1,11 @@
-﻿# Dependencias locales / build
+﻿# Sistema
 .DS_Store
 Thumbs.db
+
+# No versionar herramientas ni secretos locales
+scripts/
+.env
+.env.*
+*.local
+_tmp*
+tmp/

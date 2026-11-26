@@ -1,0 +1,187 @@
+{
+  "temas": [
+    {
+      "id": "salud",
+      "nombre": "Salud y Bienestar",
+      "resumen": "Investigación clínica, epidemiológica y de salud pública: enfermedades transmisibles, salud materno-infantil, salud mental y calidad de vida.",
+      "ods": [
+        3
+      ],
+      "icono": "M12 21s-7-4.35-9.33-8.6C1.06 9.3 2.6 5.5 6.2 4.6c2.1-.53 4.2.36 5.8 2.2 1.6-1.84 3.7-2.73 5.8-2.2 3.6.9 5.14 4.7 3.53 7.8C19 16.65 12 21 12 21z"
+    },
+    {
+      "id": "hidrico",
+      "nombre": "Recursos Hídricos, Ambiente y Clima",
+      "resumen": "Agua, cuencas y saneamiento; calidad ambiental, cambio climático, gestión de riesgos y conservación de ecosistemas.",
+      "ods": [
+        6,
+        13,
+        14,
+        15,
+        11
+      ],
+      "icono": "M12 2.5s6 6.9 6 11a6 6 0 1 1-12 0c0-4.1 6-11 6-11z"
+    },
+    {
+      "id": "ingenieria",
+      "nombre": "Ingeniería, Industria e Infraestructura",
+      "resumen": "Procesos industriales, energía, materiales, construcción, transporte y cadenas de suministro con enfoque en productividad y calidad.",
+      "ods": [
+        9,
+        7,
+        11,
+        12
+      ],
+      "icono": "M4 20h16M6 20V9l6-4 6 4v11M10 20v-5h4v5"
+    },
+    {
+      "id": "datos",
+      "nombre": "Datos, Inteligencia Artificial y Ciencias Exactas",
+      "resumen": "Inteligencia artificial, ciencia de datos y modelación matemática, física y estadística aplicada a problemas reales.",
+      "ods": [
+        9,
+        4
+      ],
+      "icono": "M4 19V5m0 14h16M8 16V9m4 7v-4m4 4V7"
+    },
+    {
+      "id": "educacion",
+      "nombre": "Educación y Formación",
+      "resumen": "Calidad educativa, innovación pedagógica, desempeño estudiantil y desarrollo docente en todos los niveles.",
+      "ods": [
+        4
+      ],
+      "icono": "M12 4 2 9l10 5 10-5-10-5zM6 12v5c0 1.7 2.7 3 6 3s6-1.3 6-3v-5"
+    },
+    {
+      "id": "economia",
+      "nombre": "Economía, Emprendimiento y Trabajo",
+      "resumen": "Dinámica económica, competitividad empresarial, mercado laboral, emprendimiento y reducción de la pobreza.",
+      "ods": [
+        8,
+        1,
+        10,
+        9
+      ],
+      "icono": "M3 17l5-6 4 3 5-7 4 4M3 21h18"
+    },
+    {
+      "id": "sociedad",
+      "nombre": "Sociedad, Cultura y Gobernanza",
+      "resumen": "Estudios sociales, patrimonio y cultura, derechos humanos, género, migración, democracia e instituciones.",
+      "ods": [
+        16,
+        5,
+        10,
+        11
+      ],
+      "icono": "M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM4 20c0-3.3 3.6-6 8-6s8 2.7 8 6"
+    },
+    {
+      "id": "agro",
+      "nombre": "Agroalimentación, Biodiversidad y Ciencias de la Vida",
+      "resumen": "Producción agropecuaria, seguridad alimentaria, biodiversidad, conservación y ciencias biológicas aplicadas.",
+      "ods": [
+        2,
+        15,
+        12,
+        14
+      ],
+      "icono": "M12 21c0-6 3-11 9-13-1 7-4 11-9 13zM12 21C12 15 9 10 3 8c1 7 4 11 9 13z"
+    },
+    {
+      "id": "otros",
+      "nombre": "Otras líneas de investigación",
+      "resumen": "Proyectos cuyo enfoque no se ajusta de forma clara a los ocho temas anteriores.",
+      "ods": [],
+      "icono": "M4 6h16M4 12h16M4 18h10"
+    }
+  ],
+  "ods": [
+    {
+      "id": 1,
+      "nombre": "Fin de la pobreza",
+      "color": "#E5243B"
+    },
+    {
+      "id": 2,
+      "nombre": "Hambre cero",
+      "color": "#DDA63A"
+    },
+    {
+      "id": 3,
+      "nombre": "Salud y bienestar",
+      "color": "#4C9F38"
+    },
+    {
+      "id": 4,
+      "nombre": "Educación de calidad",
+      "color": "#C5192D"
+    },
+    {
+      "id": 5,
+      "nombre": "Igualdad de género",
+      "color": "#FF3A21"
+    },
+    {
+      "id": 6,
+      "nombre": "Agua limpia y saneamiento",
+      "color": "#26BDE2"
+    },
+    {
+      "id": 7,
+      "nombre": "Energía asequible y no contaminante",
+      "color": "#FCC30B"
+    },
+    {
+      "id": 8,
+      "nombre": "Trabajo decente y crecimiento económico",
+      "color": "#A21942"
+    },
+    {
+      "id": 9,
+      "nombre": "Industria, innovación e infraestructura",
+      "color": "#FD6925"
+    },
+    {
+      "id": 10,
+      "nombre": "Reducción de las desigualdades",
+      "color": "#DD1367"
+    },
+    {
+      "id": 11,
+      "nombre": "Ciudades y comunidades sostenibles",
+      "color": "#FD9D24"
+    },
+    {
+      "id": 12,
+      "nombre": "Producción y consumo responsables",
+      "color": "#BF8B2E"
+    },
+    {
+      "id": 13,
+      "nombre": "Acción por el clima",
+      "color": "#3F7E44"
+    },
+    {
+      "id": 14,
+      "nombre": "Vida submarina",
+      "color": "#0A97D9"
+    },
+    {
+      "id": 15,
+      "nombre": "Vida de ecosistemas terrestres",
+      "color": "#56C02B"
+    },
+    {
+      "id": 16,
+      "nombre": "Paz, justicia e instituciones sólidas",
+      "color": "#00689D"
+    },
+    {
+      "id": 17,
+      "nombre": "Alianzas para lograr los objetivos",
+      "color": "#19486A"
+    }
+  ]
+}
